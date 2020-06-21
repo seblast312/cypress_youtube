@@ -1,0 +1,2 @@
+selenium : webdriver avec 2 requetes + sync
+			impression de flackeness 
