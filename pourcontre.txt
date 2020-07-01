@@ -1,4 +1,7 @@
+
+
 selenium : webdriver avec 2 requetes + sync
 			impression de flackeness 
 
 https://blog.logrocket.com/cypress-io-the-selenium-killer/
+https://www.youtube.com/watch?v=pRSc0e4NjiU
