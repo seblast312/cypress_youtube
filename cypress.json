@@ -1,1 +1,7 @@
-{}
+{
+    "baseUrl": "http://localhost:4100",
+    "chromeWebSecurity": false,
+    "env": {
+
+    }
+}

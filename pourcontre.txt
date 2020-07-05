@@ -1,4 +1,7 @@
-
+1) Qu'est-ce qu'un framework de test E2E
+2) Historique avec un aperçu des differents framework a travers le temps.
+3) Comparaison Selenium / Cypress
+4) Cypress concretement, ses fonctionnalités, ses plugins etc.... et des démos pour présenter chaques fonctionnalié ou une ou des démo(s) qui regroupe un certain nombre de fonctionnalité.
 
 selenium : webdriver avec 2 requetes + sync
 			impression de flackeness 
