@@ -8,3 +8,5 @@ selenium : webdriver avec 2 requetes + sync
 
 https://blog.logrocket.com/cypress-io-the-selenium-killer/
 https://www.youtube.com/watch?v=pRSc0e4NjiU
+
+  "baseUrl": "http://localhost:4100",
