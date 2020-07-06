@@ -6,7 +6,7 @@ describe("test Navigation", () => {
             cy.login('cypress@devoxx.fr', 'cypressdevoxx')
 
             cy.server()
-            cy.route('/sockjs-node/**').as('getJs');
+            cy.route(' http://localhost:4100/sockjs-node/**').as('getJs');
          // wait XLS request
         cy.wait('@getJs')
         })
@@ -14,7 +14,7 @@ describe("test Navigation", () => {
 
     it("should visit the site", () => {
 
-        cy.visit("/user")
+        cy.visit(" http://localhost:4100/user")
         cy.contains("Sign in").click()
         cy.log("end")
     })
